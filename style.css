@@ -45,3 +45,15 @@ body{
 .company img {
     width: 95px;
 }
+.sizes{
+    width: 130px;
+    height: 60px; 
+}
+.foot {
+    color: #E8E8E8;
+    font-size: 14px;
+}
+
+.social-icons{
+    padding-right: 3%;
+}
