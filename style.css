@@ -12,8 +12,8 @@ body{
     filter: brightness(80%);
 }
 .imges { 
-    height: 100vh;
-   
+ 
+    height: 90vh;
 }
 .captions{
     bottom: auto;
