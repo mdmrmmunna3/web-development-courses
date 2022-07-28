@@ -8,8 +8,8 @@ body{
 }
 
 .background{
-    background: black;
-    filter: brightness(70%);
+    background: rgba(119, 108, 108, 0.925);
+    filter: brightness(80%);
 }
 .imges { 
     height: 600px;
@@ -35,4 +35,13 @@ body{
 
 .font-s {
     font-size: 14px;
+}
+
+.company{
+    padding-left: 6%;
+    
+}
+
+.company img {
+    width: 95px;
 }
