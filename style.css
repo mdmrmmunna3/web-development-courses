@@ -13,11 +13,11 @@ body{
 }
 .imges { 
  
-    height: 90vh;
+    height: 65vh;
 }
 .captions{
     bottom: auto;
-    top: 30%;
+    top: 20%;
     position: absolute;
 }
 
